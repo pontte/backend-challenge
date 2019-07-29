@@ -41,9 +41,9 @@ Vamos usar esse teste para validar a sua lógica, design da sua solução, códi
  - Estado civil
  - Endereço
 
-**Upalod de Imagens**
+**Upload de Imagens**
  - CNH ou CPF (obrigatório)
- - Conprovante de renda
+ - Comprovante de renda
  - Imagens do imóvel
 
 **Aprovação**
