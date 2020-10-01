@@ -16,7 +16,7 @@ Vamos usar esse teste para validar a sua lógica, design da sua solução, códi
 - Somente quando o usuário enviar todos os dados **obrigatórios** ao estado que se encontra, ele pode navegar para o próximo estado. (Dados descrito no *tópico 4*)
 - Não pode ser salvo dados de estatos futuros.
 - Pode ser atualizados os dados do estado que o contrato se encontra e dos estados anteriores.
-- Caso o contrato seja Aprovado ou Repovado, o usuário não pode mais realizar a edição.
+- Caso o contrato seja Aprovado ou Reprovado, o usuário não pode mais realizar a edição.
 
 
 
